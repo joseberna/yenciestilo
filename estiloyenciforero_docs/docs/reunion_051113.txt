@@ -1,0 +1,7 @@
+Martes 5 de noviembre 2013
+
+- Evaluacion del fondo.
+- Iconos.
+- Manejo de contenido
+
+wordpress 3.7.1
