@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Yenci Estilo</string>
+    <string name="conoceme">Conóceme</string>
+    <string name="proyeccionimagen">Proyección E Imagen</string>
+    <string name="seminariostalleres">Seminarios Y Talleres</string>
+    <string name="protocoloetiqueta">Protocolo Y Etiqueta</string>
+    <string name="tips">Tips</string>
+    <string name="contactame">Contáctame</string>
+
+    <string-array name="menu_array">
+        <item>Conóceme</item>
+        <item>Proyección E Imagen</item>
+        <item>Seminarios Y Talleres</item>
+        <item>Protocolo Y Etiqueta</item>
+        <item>Tips</item>
+        <item>Contáctame</item>
+    </string-array>
+
+    <string name="action_settings">Acerca de</string>
+    <string name="menu">menu</string>
+    <string name="intro"></string>
+    <string name="mision">Potencializar la imagen corporativa de sus colaboradores, tanto a nivel individual, como en grupos de trabajo. 
+Actualmente, es importante invertir en los activos mas valiosos de la organización: sus colaboradores. Por medio de seminarios y talleres,
+fortaleceremos su imagen profesional, todo esto, de acuerdo a la imagen de su empresa. </string>
+    <string name="vision"></string>
+
+</resources>
